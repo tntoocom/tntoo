@@ -1,6 +1,6 @@
 # TNTOO Whitepaper
 
-Fair, open, reserves can not be diverted blockchain network.
+Fair, open, reserves can not be diverted transaction network.
 
 Version 1.0
 
